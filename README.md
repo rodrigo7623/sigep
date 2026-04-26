@@ -176,23 +176,3 @@ sigep/
 | USUARIO_UNIVERSITARIO | Gestión de sus propios vehículos                |
 
 ---
-
-## Módulos implementados (Sprint 1)
-
-- HU-22 — Autenticación con email y contraseña + cierre de sesión
-- HU-21 — Roles diferenciados con acceso restringido por endpoint
-- HU-01 — Registro de usuario universitario
-- HU-02 — Registro de usuario externo
-- HU-03 — Modificación y baja lógica de usuarios
-- HU-04 — Búsqueda de usuarios por nombre, documento y email
-- HU-05 — Registro de vehículos asociados a un usuario
-- HU-06 — Modificación y baja de vehículos
-
----
-
-## Próximo sprint (Sprint 2)
-
-- Definición de zonas y espacios de estacionamiento
-- Mapa de ocupación en tiempo real
-- Registro de ingreso y salida de vehículos (puesto del guardia)
-- Consulta de disponibilidad por zona
